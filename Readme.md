@@ -2,4 +2,8 @@
 
 Este é um repositorio teste para ensinar como git funciona
 
-Testendo nova linha
+Testando nova linha
+
+Gostou do curso?
+
+Opa
